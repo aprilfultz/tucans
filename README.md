@@ -1,4 +1,4 @@
-# tucans
+# Tucans
 An example using floats.
 
 This example needs a line of code referancing the viewport for the website to be responsive online.
